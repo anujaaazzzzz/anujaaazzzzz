@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Anuja Gautam  
 
-Welcome to my GitHub! I'm an AI enthusiast and a passionate developer dedicated to building innovative solutions that bridge technology and real-world problems. From smart waste management systems to AR-powered advertising platforms, I love working on projects that make a difference.
+Welcome to my GitHub! I'm an AI enthusiast and I love working on projects that make a difference.
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,cpp,css,discord,django,eclipse,figma,git,github,gmail,html,idea,instagram,java,js,linkedin,mint,mongodb,mysql,opencv,php,pycharm,py,pytorch,raspberrypi,react,sklearn,tensorflow,twitter,visualstudio,vscode)](https://skillicons.dev)
 ---
