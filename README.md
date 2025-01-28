@@ -7,11 +7,10 @@ Welcome to my GitHub! I'm an AI enthusiast and a passionate developer dedicated 
 
 ## 🚀 About Me  
 
-- 💻 **AI & IoT Developer**: Specializing in creating intelligent systems that integrate Artificial Intelligence with the Internet of Things.  
+- 💻 **AI & IoT Developer**: Contributing at ING Skill Academy and Skill Museum and Research Centre (SMaRC).   
 - 🌐 **Full Stack Developer in Training**: Exploring technologies like Django and React to enhance my web development skills.  
 - 🤖 **Tech Enthusiast**: I have experience in robotics, AR, and AI, working on projects like AI Safari and WasteWise.  
 - 🎓 **BSc Hons in Computing with AI Student**: Focused on combining AI principles with practical applications.  
-- 🏫 **AI Intern**: Contributing at ING Skill Academy and Skill Museum and Research Centre (SMaRC).  
 
 ---
 
@@ -19,22 +18,28 @@ Welcome to my GitHub! I'm an AI enthusiast and a passionate developer dedicated 
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 
 ### 🧠 AI & Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
 
+### 🌐 IoT Development  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
+
 ### 🌐 Web Development  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
 
-### 🛠 Tools & Frameworks  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)  
-![Gradio](https://img.shields.io/badge/Gradio-3776AB?style=flat-square&logo=python&logoColor=white)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF5733?style=flat-square&logo=google&logoColor=white)  
+### 🗄️ Database Management  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
 
 ---
 
