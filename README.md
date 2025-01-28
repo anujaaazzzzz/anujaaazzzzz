@@ -68,7 +68,8 @@ Welcome to my GitHub! I'm an AI enthusiast and a passionate developer dedicated 
 
 ## 📬 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuja%20Gautam-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujagautam/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuja%20Gautam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujagautam/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-sleepy.anujaaax-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sleepy.anujaaax/)
 
 
