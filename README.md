@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm an AI enthusiast and love working on projects that mak
 
 ## 🛠️ Skills & Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,aws,cpp,css,discord,django,eclipse,figma,git,github,gmail,html,idea,instagram,java,js,linkedin,mint,mongodb,mysql,opencv,php,pycharm,py,pytorch,raspberrypi,react,sklearn,tensorflow,twitter,visualstudio,vscode&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,css,discord,django,eclipse,figma,git,github,html,idea,instagram,java,js,linkedin,mongodb,mysql,opencv,postgresql,postman,pycharm,py,pytorch,raspberrypi,react,sklearn,tensorflow,twitter,visualstudio,vscode&perline=11)](https://skillicons.dev)
 
 ---
 
